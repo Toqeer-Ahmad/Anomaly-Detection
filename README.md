@@ -9,6 +9,7 @@ The dataset consists of server performance metrics such as:
 - Memory usage
 - Network throughput
 - Latency indicators
+
 The data includes both normal operating conditions and labelled failure events.
 
 ## ⚙️ Methodology
@@ -17,6 +18,7 @@ The project applies a Gaussian-based anomaly detection approach:
 - Computation of probability density for each observation
 - Threshold selection using validation data
 - Classification of anomalous server states
+
 This probabilistic approach is particularly effective when failure examples are rare.
 
 ## 📈 Results
