@@ -1,3 +1,5 @@
+> This project demonstrates probabilistic anomaly detection using Gaussian modelling for identifying abnormal system behaviour.
+
 # 📌 Anomaly Detection for Predictive Server Failure
 Early detection of abnormal server behaviour is critical to prevent downtime, financial losses, and service disruption.
 This project implements an anomaly-detection model to identify failing servers based on system performance metrics, using statistical learning techniques.
@@ -57,3 +59,10 @@ The model successfully identifies abnormal server behaviour with:
 
 ## Source
 Source file is available in the files section or can be accessed [here](https://github.com/Toqeer-Ahmad/Anomaly-Detection/blob/main/08-Anomaly%20Detection.ipynb)
+
+## Repository Structure<br />
+data/ → training and validation datasets<br />
+images/ → visualization outputs<br />
+08-Anomaly Detection.ipynb → main implementation notebook<br />
+utils.py → helper functions<br />
+public_tests.py → evaluation utilities<br />
