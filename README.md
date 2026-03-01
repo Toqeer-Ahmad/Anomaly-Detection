@@ -28,6 +28,15 @@ The model successfully identifies abnormal server behaviour with:
 - Minimal false positives after tuning
 - Visualisation of probability contours and anomaly clusters demonstrates the robustness of the detection process.
 
+### Detected anomalies<br />
+![Detected anomalies](images/figure1.png)<br />
+
+### Gaussian contour visualization<br />
+![Contour](images/figure2.png)<br />
+
+### Threshold selection<br />
+![Threshold](images/figure3.png)<br />
+
 ## 🧠 Key Learning Outcomes
 - Practical understanding of probabilistic anomaly detection
 - Handling imbalanced datasets
